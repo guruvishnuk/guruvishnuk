@@ -7,7 +7,7 @@
 
 <p align="center">
   📧 <strong>Email:</strong> guruvishnu1927@gmail.com &nbsp; | &nbsp;
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pratik-sutar-" target="_blank">linkedin.com/in/pratik-sutar-</a>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/guruvishnu-kajagar-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BevJ47CilR36tmLWII6ms0g%3D%3D" target="_blank">linkedin.com/in/guruvishnu-kajagar</a>
 </p>
 
 <hr>
