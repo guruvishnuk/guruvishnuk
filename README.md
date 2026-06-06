@@ -76,11 +76,11 @@
 ## 💼 Experience
 
 ```
-  CandorWorks                                                                                                                Oct 2025 – Present   ●  Active
+  CandorWorks                                                                                   Oct 2025 – Present   ●  Active
   Frontend Developer
   React.js · Axios · WordPress · Python · PostgreSQL · Agile
 
-  J Spiders                                                                                                                  Feb 2025 – Oct 2025   ○  Completed
+  J Spiders                                                                                     Feb 2025 – Oct 2025   ○  Completed
   Front-End Intern
   HTML · CSS · JavaScript · React.js · Core Java · SQL
 ```
