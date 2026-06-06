@@ -105,7 +105,7 @@
 
 `HTML5` `CSS3` `JavaScript` `PHP` `MySQL` `Vercel`
 
-[🔗 Live Demo]([https://github.com/guruvishnu-kajagar](https://fresh-bites-foodrecipe.vercel.app/))
+[🔗 Live Demo](https://fresh-bites-foodrecipe.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
