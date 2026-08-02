@@ -34,7 +34,7 @@
 
 <br/>
 
-<!-- Interactive Developer Profile Terminal -->
+<!-- Developer Profile Terminal -->
 ```javascript
 const developer = {
     name: "Guruvishnu Kajagar",
