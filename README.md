@@ -156,8 +156,8 @@ of the Week (Java)** and a **Certificate of Excellence**.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=guruvishnuk&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="Guruvishnu's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruvishnuk&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Most used languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guruvishnuk&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="Guruvishnu's GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guruvishnuk&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Most used languages" />
 
 </div>
 
