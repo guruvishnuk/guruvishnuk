@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruvishnu-kajagar-)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guruvishnu1927@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://guruvishnuportfolio.vercel.app)
 
 </div>
 
@@ -91,7 +91,7 @@ A modular assessment platform UI integrated against Python & PostgreSQL backend 
 ---
 
 ### 🍽️ Fresh-Bites — Recipe & E-Commerce App
-[Live Demo](https://fresh-bites-foodrecipe.vercel.app/) · [GitHub](https://github.com/guruvishnu-kajagar)
+[Live Demo](https://fresh-bites-foodrecipe.vercel.app/) · [GitHub](https://github.com/guruvishnuk/FreshBites_Foodrecipe)
 
 A responsive 5-page e-commerce web app with cart, product filtering, and an admin
 order-management dashboard.
@@ -106,7 +106,7 @@ order-management dashboard.
 ---
 
 ### 🔐 Secure E-Voting System — Iris Recognition
-[GitHub](https://github.com/guruvishnu-kajagar)
+[GitHub](https://github.com/guruvishnuk/secure-evoting)
 
 A biometric-secured e-voting platform using iris recognition for voter authentication.
 
@@ -169,7 +169,7 @@ I'm open to frontend and full-stack roles in Pune, Bangalore, or Remote — avai
 
 [![LinkedIn](https://img.shields.io/badge/guruvishnu--kajagar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruvishnu-kajagar-)
 [![Email](https://img.shields.io/badge/guruvishnu1927@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guruvishnu1927@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://guruvishnuportfolio.vercel.app)
 
 <br/>
 
