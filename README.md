@@ -210,6 +210,12 @@ const guruvishnu: Developer = {
 
 <br/><br/>
 
+### 🌐 3D Isometric Contribution Calendar
+
+<img src="https://raw.githubusercontent.com/guruvishnuk/guruvishnuk/output/profile-3d-contrib.svg" alt="3D Contribution Graph" width="100%"/>
+
+<br/>
+
 ### 🐍 Watch the Snake Eat My Contributions
 
 <picture>
