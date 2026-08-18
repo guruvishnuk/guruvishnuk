@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=500&color=FF0080&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+scalable+React+UIs+%40+CandorWorks;⚡+Cut+API+calls+by+60%25+%7C+Bundle+by+35%25;🔐+Built+a+biometric+e-voting+system;🌐+React+·+Java+·+Spring+Boot+·+PostgreSQL;🎯+Open+for+new+roles+—+Let's+build+something!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=500&color=FF0080&center=true&vCenter=true&width=700&lines=Building+scalable+React+UIs+%40+CandorWorks;Cut+API+calls+by+60%25+%7C+Bundle+by+35%25;Built+a+biometric+e-voting+system;React+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;Open+for+new+roles+%E2%80%94+Lets+build+something!" alt="Typing SVG"/>
 
 <br/><br/>
 
