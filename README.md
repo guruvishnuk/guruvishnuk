@@ -8,8 +8,7 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=guruvishnuk&color=FF0080&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/guruvishnuk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7928CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruvishnu-kajagar-)
+[![Profile Views](https://komarev.com/ghpvc/?username=guruvishnuk&color=FF0080&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/guruvishnuk)[![LinkedIn](https://img.shields.io/badge/LinkedIn-7928CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruvishnu-kajagar-)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://guruvishnuportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guruvishnu1927@gmail.com)
 
