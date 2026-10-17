@@ -1,61 +1,188 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:FF6B6B&height=220&section=header&text=Guruvishnu%20Kajagar&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Frontend%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Performance%20Obsessed&descAlignY=65&descSize=15&descColor=ffffff" alt="header"/>
+<img src="assets/hero.svg" width="100%" alt="Guruvishnu Kajagar - animated 3D skill orbit"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=600&color=00DFD8&center=true&vCenter=true&width=760&lines=Cut+API+calls+by+60%25+%C2%B7+Shrunk+bundles+by+35%25;Built+CodeLab%3A+a+sandboxed+code-execution+platform;Shipped+a+3D+WebGL+portfolio+with+live+GitHub+telemetry;Iris-biometric+e-voting+with+AES+encryption;Now+mastering+backend%3A+Node+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+Docker" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=500&color=FF0080&center=true&vCenter=true&width=650&lines=Building+scalable+React+UIs+%40+CandorWorks;Cut+API+calls+by+60%25+%7C+Bundle+by+35%25;Built+a+biometric+e-voting+system;React+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;Open+for+new+roles+%E2%80%94+Lets+build+something!" alt="Typing SVG"/>
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=guruvishnuk&color=FF0080&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/guruvishnuk)[![LinkedIn](https://img.shields.io/badge/LinkedIn-7928CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruvishnu-kajagar-)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://guruvishnuportfolio.vercel.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=guruvishnuk&color=FF0080&style=for-the-badge&label=PROFILE%20VIEWS)](https://github.com/guruvishnuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7928CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruvishnu-kajagar-)
+[![Portfolio](https://img.shields.io/badge/3D_Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://guruvishnuportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guruvishnu1927@gmail.com)
 
 </div>
 
----
+<br/>
 
-## `{ whoami }` — The Human Behind The Code
+## `~/whoami`
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ```typescript
-const guruvishnu = {
+const guruvishnu: Engineer = {
   location : "Pune, India",
   company  : "CandorWorks",
   role     : "Frontend Developer",
-  status   : "Open to new roles",
+  status   : "🟢 Open to new roles",
 
-  stack: {
-    frontend : ["React", "Next.js", "TS"],
-    backend  : ["Spring Boot", "REST"],
-    database : ["PostgreSQL", "MySQL"],
-    other    : ["Java", "Python", "PHP"],
-  },
-
-  wins: [
-    "Cut API calls by ~60%",
-    "Shrunk bundle by ~35%",
-    "Best Coder @ J Spiders",
-    "Iris e-voting + AES crypto",
+  superpowers: [
+    "Performance engineering",
+    "3D / WebGL experiences",
+    "Secure, sandboxed systems",
+    "Design-system thinking",
   ],
 
-  learning : ["Next.js SSR", "Spring Boot"],
-  funFact  : "12+ components = 40% faster",
+  receipts: {
+    apiCalls    : "-60%",
+    bundleSize  : "-35%",
+    devSpeed    : "+40% (12+ components)",
+    pageSpeed   : "+25%",
+    lighthouse  : "96+",
+    accessibility: "WCAG 2.1 AA",
+  },
+
+  awards: ["Best Coder @ J Spiders"],
+  currently: "Going deep on backend 🔧",
 };
 ```
 
 </td>
-<td width="45%" valign="middle" align="center">
+<td width="42%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="coding gif"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guruvishnuk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=7928CA&text_color=c9d1d9&ring_color=0070F3" width="100%" alt="GitHub Stats"/>
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🧪 Flagship Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 CodeLab
+**Interactive coding platform with a sandboxed execution engine**
+
+Next.js 14 · TypeScript · FastAPI · PostgreSQL · Three.js
+
+- 🔒 Untrusted code runs isolated: **0.5 vCPU · 128 MB · no network · 5s kill-switch**
+- 🔑 Auth.js (Google + GitHub OAuth) with **HS256 JWTs verified across Next.js and FastAPI**
+- 🌌 Cinematic Three.js landing: 1,100-particle starfield, parallax, full GPU cleanup
+- 🎮 XP, streaks, rank tiers and badges · Socratic 3-tier hints
+- ⚡ Zero-downtime fallback layer: instant loads even on server cold starts
+
+[![Source](https://img.shields.io/badge/SOURCE-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guruvishnuk/codelab)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 3D Developer Portfolio
+**Immersive WebGL portfolio with live telemetry**
+
+React 19 · TypeScript · React Three Fiber · Motion · Tailwind v4 · Vite
+
+- 🪐 Interactive 3D galaxy + card deck (`@react-three/fiber` + `drei`)
+- 📊 Live **GitHub API** dashboard: commits, heatmap, languages
+- ☀️ Solar-orbit skills system with 3 concentric rings
+- 🎛️ Live component sandbox with theme tokens + node-tree inspector
+- 🤖 Embedded **Gemini-powered** portfolio assistant
+- 🌊 Lenis inertia scrolling · **96+ Lighthouse**
+
+[![Live](https://img.shields.io/badge/LIVE_DEMO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://guruvishnuportfolio.vercel.app)
+[![Source](https://img.shields.io/badge/SOURCE-0070F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guruvishnuk/guruvishnu-portfolio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚛 Alacrity Trade Platform `LIVE`
+**Real-time India-to-global logistics UI @ CandorWorks**
+
+| Metric | Result |
+|---|---|
+| API calls | **−60%** (debounced search) |
+| Bundle size | **−35%** (lazy loading) |
+| Accessibility | **WCAG 2.1 AA** |
+
+`React` `Context API` `Axios` `REST`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Talent Evaluation Platform `LIVE`
+**Assessment UI on a Python + PostgreSQL backend**
+
+| Metric | Result |
+|---|---|
+| Reusable components | 12+ → **40% faster dev** |
+| REST integrations | 5+ with **0 downtime** |
+| Page speed | **+25%** (WP optimization) |
+
+`React` `Python` `PostgreSQL` `WordPress`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Iris E-Voting System
+**Biometric-secured voting with tamper-proof verification**
+
+**100%** duplicate-vote elimination · iris recognition + smart-card 2-step auth · AES encryption lifecycle
+
+`Java` `PHP` `MySQL` `Biometrics` `AES`
+
+[![Source](https://img.shields.io/badge/SOURCE-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guruvishnuk/Secure-e-voting-system-using-iris-recognization)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ FreshBites
+**Food-recipe platform with ready-to-cook kit ordering**
+
+Fast page transitions · lazy-loaded imagery · optimized mobile checkout
+
+`React` `TypeScript` `Tailwind` `Zustand` `Vite`
+
+[![Live](https://img.shields.io/badge/LIVE_DEMO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://fresh-bites-foodrecipe.vercel.app/)
+[![Source](https://img.shields.io/badge/SOURCE-0070F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guruvishnuk/FreshBites_Foodrecipe)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛰️ Currently Building: Backend Mastery (12-Week Roadmap)
+
+> Taking my full-stack game from *"I can wire an API"* to *"I can design, scale and ship distributed systems"*. Progress is public in [`backend-mastery`](https://github.com/guruvishnuk/backend-mastery).
+
+| Wk | Focus | Stack | Status |
+|:--:|---|---|:--:|
+| 01 | Node internals, event loop, strict-TS Express | V8 · libuv · Express · tsx | 🟡 In progress |
+| 02 | Relational design + ORM | PostgreSQL · Prisma | ⚪ |
+| 03 | Auth & RBAC | JWT · Argon2 · refresh rotation | ⚪ |
+| 04 | Validation | Zod | ⚪ |
+| 05 | Testing | Vitest · Supertest | ⚪ |
+| 06 | Advanced SQL | Indexing · `EXPLAIN ANALYZE` · ACID | ⚪ |
+| 07 | Caching & rate limiting | Redis · cache-aside | ⚪ |
+| 08 | Uploads & storage | S3 / R2 · presigned URLs · streams | ⚪ |
+| 09 | Queues | BullMQ · workers · retries | ⚪ |
+| 10 | Real-time | Socket.IO · rooms | ⚪ |
+| 11 | Containers | Docker · Compose | ⚪ |
+| 12 | CI/CD & cloud | GitHub Actions · AWS / Render | ⚪ |
+
+```text
+Week 01  ████░░░░░░░░░░░░░░░░░░░░░░░░░░  Node core + Express TS
+Overall  █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ~8%   shipping daily
+```
 
 ---
 
@@ -63,169 +190,36 @@ const guruvishnu = {
 
 <div align="center">
 
-**Frontend**
+**Frontend & 3D**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,tailwind,vite,html,css&theme=dark&perline=9" alt="Frontend"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark&perline=8" alt="Frontend Skills"/>
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,fastapi,postgres,mysql,redis,prisma&theme=dark&perline=10" alt="Backend"/>
 
-<br/><br/>
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,php,postgres,mysql,wordpress&theme=dark&perline=8" alt="Backend Skills"/>
-
-<br/><br/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark&perline=8" alt="Tools"/>
+**DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,vscode,postman,figma&theme=dark&perline=8" alt="Tools"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Activity Universe
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🚛 Alacrity Trade Platform</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/PRODUCTION-LIVE-00DFD8?style=for-the-badge" alt="Live"/>
-</div>
-<br/>
-
-> Real-time India-to-global logistics UI
-
-| What | Impact |
-|------|--------|
-| API calls | **−60%** debounced search |
-| Bundle size | **−35%** lazy loading |
-| Accessibility | WCAG 2.1 AA |
-
-`React.js` `Context API` `Axios` `REST APIs`
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📊 Talent Eval Platform</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/PRODUCTION-LIVE-7928CA?style=for-the-badge" alt="Live"/>
-</div>
-<br/>
-
-> Assessment UI → Python & PostgreSQL backend
-
-| What | Impact |
-|------|--------|
-| Components | 12+ → **40% faster dev** |
-| REST APIs | 5+ integrated, **0 downtime** |
-| Page speed | **+25%** WP optimization |
-
-`React.js` `Python` `PostgreSQL` `WordPress`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🍽️ Fresh-Bites E-Commerce</h3>
-
-<div align="center">
-
-[![Live](https://img.shields.io/badge/LIVE_DEMO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://fresh-bites-foodrecipe.vercel.app/)
-[![Code](https://img.shields.io/badge/SOURCE-0070F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guruvishnuk/FreshBites_Foodrecipe)
-
-</div>
-<br/>
-
-> 5-page e-commerce with cart & admin dashboard
-
-| What | Impact |
-|------|--------|
-| Cart | localStorage + 3 filters |
-| Backend | PHP + MySQL MVC |
-| Speed | **+20%** lazy load |
-
-`HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔐 Iris E-Voting System</h3>
-
-<div align="center">
-
-[![Code](https://img.shields.io/badge/SOURCE-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guruvishnuk/secure-evoting)
-
-</div>
-<br/>
-
-> Biometric-secured voting platform
-
-| What | Impact |
-|------|--------|
-| Accuracy | **100%** duplicate elimination |
-| Auth | Iris recognition biometrics |
-| Security | AES encryption lifecycle |
-
-`Java` `Biometrics` `AES Encryption`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💼 Career Timeline
-
-<div align="center">
-
-```
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶ NOW
-  │
-  ├── Feb   J Spiders — Full-Stack Dev Trainee
-  │         ★ Best Coder of the Week (Java)
-  │         ★ Certificate of Excellence
-  │
-  ├── Feb → May   CandorWorks — Talent Eval Platform
-  │         Frontend Dev · 12+ components · 5+ APIs
-  │
-  └── May → Present   CandorWorks — Alacrity Trade Platform
-            Frontend Dev · Real-time logistics UI
-```
-
-</div>
-
----
-
-## 📈 GitHub Universe
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guruvishnuk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=7928CA&text_color=c9d1d9&ring_color=0070F3" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guruvishnuk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=guruvishnuk&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0080&fire=7928CA&currStreakLabel=FF0080&sideLabels=0070F3&dates=484F58&currStreakNum=ffffff&sideNums=c9d1d9" height="170" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=guruvishnuk&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0080&fire=7928CA&currStreakLabel=FF0080&sideLabels=0070F3&dates=484F58&currStreakNum=ffffff&sideNums=c9d1d9" height="170" alt="Streak Stats"/>
-
-<br/><br/>
-
-### 🌐 3D Isometric Contribution Calendar
+**🌐 3D Isometric Contribution Calendar**
 
 <img src="https://raw.githubusercontent.com/guruvishnuk/guruvishnuk/output/profile-3d-contrib.svg" alt="3D Contribution Graph" width="100%"/>
 
 <br/>
 
-### 🐍 Snake Eating My Contributions
+**🐍 Snake vs. My Contributions**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guruvishnuk/guruvishnuk/output/github-contribution-grid-snake-dark.svg"/>
@@ -235,24 +229,11 @@ const guruvishnu = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guruvishnuk&bg_color=0D1117&color=FF0080&line=7928CA&point=00DFD8&area=true&area_color=0070F3&hide_border=true&custom_title=Guruvishnu%27s%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guruvishnuk&bg_color=0D1117&color=FF0080&line=7928CA&point=00DFD8&area=true&area_color=0070F3&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
 
-</div>
+<br/><br/>
 
----
-
-## 🎯 Skill Progression
-
-<div align="center">
-
-| Skill | Progress | Level |
-|-------|----------|-------|
-| ⚛️ React.js | `████████████████░░░░` | **80%** Advanced |
-| ☕ Java | `██████████████░░░░░░` | **70%** Intermediate |
-| 🐍 Python | `████████████░░░░░░░░` | **60%** Intermediate |
-| 🔷 TypeScript | `██████████░░░░░░░░░░` | **50%** Growing |
-| 🌿 Next.js | `████████░░░░░░░░░░░░` | **40%** Learning |
-| 🍃 Spring Boot | `██████░░░░░░░░░░░░░░` | **30%** Learning |
+<img src="https://github-profile-trophy.vercel.app/?username=guruvishnuk&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
 
 </div>
 
@@ -260,19 +241,17 @@ const guruvishnu = {
 
 <div align="center">
 
-## 🤝 Let's Build Something Legendary
+## 🤝 Let's build something legendary
 
-I'm open to **Frontend** and **Full-Stack** roles in **Pune · Bangalore · Remote** — available immediately 🟢
-
-<br/>
+**Frontend · Full-Stack · Pune · Bangalore · Remote** · available immediately 🟢
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-7928CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guruvishnu-kajagar-)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://guruvishnuportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_3D_Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://guruvishnuportfolio.vercel.app)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guruvishnu1927@gmail.com)
 
-<br/><br/>
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="75%" alt="Dev Quote"/>
 
