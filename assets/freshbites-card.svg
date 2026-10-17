@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 260" width="100%" height="100%">
+  <!-- Card Background -->
+  <rect width="580" height="260" rx="16" fill="#F4F1EA" stroke="#111111" stroke-width="2"/>
+
+  <!-- Inner Bento Panel -->
+  <rect x="14" y="14" width="552" height="232" rx="12" fill="#FAF8F5" stroke="#E7E1D3" stroke-width="1"/>
+
+  <!-- Top Bar: Mini Icon, Tag, Index -->
+  <g transform="translate(0, 0)">
+    <g>
+    <polygon points="30.679499999999997,40 48,50 48,64 30.679499999999997,54" fill="#FF4D1C" stroke="#111111" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="48,50 65.32050000000001,40 65.32050000000001,54 48,64" fill="#D4360A" stroke="#111111" stroke-width="1.2" stroke-linejoin="round"/>
+    <polygon points="48,30 65.32050000000001,40 48,50 30.679499999999997,40" fill="#FFEAE4" stroke="#111111" stroke-width="1.2" stroke-linejoin="round"/>
+    
+      <text x="48" y="40.5" text-anchor="middle" dominant-baseline="central" fill="#D4360A" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="8" font-weight="700" letter-spacing="0.5">FB</text>
+    
+  </g>
+
+    <!-- Tag Pill -->
+    <g transform="translate(86, 32)">
+      <rect width="210" height="22" rx="4" fill="#E7E1D3" stroke="#D8D1C0" stroke-width="1"/>
+      <text x="10" y="15" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#FF4D1C">● E-COMMERCE · 3D WEB</text>
+    </g>
+
+    <!-- Index Number -->
+    <text x="542" y="47" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.5" fill="#888880">[ 06 ]</text>
+  </g>
+
+  <!-- Title -->
+  <text x="28" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#111111">FreshBites</text>
+
+  <!-- 2-Line Description -->
+  <text x="28" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#555550">Food recipe discovery and ready-to-cook ingredient kit platform with interactive 3D models.</text>
+  <text x="28" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#555550">Built with fast route transitions, lazy-loaded imagery, and optimized mobile checkout.</text>
+
+  <!-- Key Metric Panel -->
+  <g transform="translate(28, 154)">
+    <rect width="524" height="34" rx="6" fill="#F4F1EA" stroke="#111111" stroke-width="1"/>
+    <text x="14" y="21" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#888880">USER EXPERIENCE</text>
+    <text x="140" y="21" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#FF4D1C">FAST TRANSITIONS · 3D KIT ORDERING</text>
+  </g>
+
+  <!-- Stack Chips -->
+  
+      <g transform="translate(28, 208)">
+        <rect width="76" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
+        <text x="38" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">React 18</text>
+      </g>
+    
+
+      <g transform="translate(112, 208)">
+        <rect width="91" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
+        <text x="45.5" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">TypeScript</text>
+      </g>
+    
+
+      <g transform="translate(211, 208)">
+        <rect width="76" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
+        <text x="38" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">Three.js</text>
+      </g>
+    
+
+      <g transform="translate(295, 208)">
+        <rect width="98.5" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
+        <text x="49.25" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">Tailwind v4</text>
+      </g>
+    
+
+      <g transform="translate(401.5, 208)">
+        <rect width="46" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
+        <text x="23" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">Vite</text>
+      </g>
+    
+</svg>

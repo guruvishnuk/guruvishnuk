@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
+  <rect width="1200" height="220" rx="18" fill="#F4F1EA" stroke="#111111" stroke-width="2"/>
+
+  <!-- Left isometric accent -->
+  
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="3.0s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+        
+    <polygon points="55.358999999999995,95 90,115 90,145 55.358999999999995,125" fill="#FF4D1C" stroke="#111111" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="90,115 124.641,95 124.641,125 90,145" fill="#D4360A" stroke="#111111" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="90,75 124.641,95 90,115 55.358999999999995,95" fill="#FFEAE4" stroke="#111111" stroke-width="1.5" stroke-linejoin="round"/>
+    
+      <text x="90" y="95.5" text-anchor="middle" dominant-baseline="central" fill="#D4360A" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="0.5">@</text>
+    
+  
+      </g>
+    
+
+  <!-- Main Headline & Subline -->
+  <g transform="translate(170, 0)">
+    <text x="0" y="44" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#FF4D1C">06 / INITIATE CONTACT — IMMEDIATE AVAILABILITY</text>
+    
+    <text x="0" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="bold" fill="#111111" letter-spacing="-0.5">Let's build something worth shipping.</text>
+
+    <text x="0" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" fill="#555550">Open for Frontend and Full-Stack engineering roles.</text>
+
+    <text x="0" y="170" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.5" fill="#111111">LOCATIONS: PUNE · BANGALORE · REMOTE</text>
+  </g>
+
+  <!-- Right Side Callout Button -->
+  <g transform="translate(865, 58)">
+    <rect width="285" height="98" rx="12" fill="#FAF8F5" stroke="#111111" stroke-width="1.5"/>
+    <text x="22" y="32" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#FF4D1C">PRIMARY CHANNEL</text>
+    <text x="22" y="58" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="700" fill="#111111">guruvishnu1927@gmail.com</text>
+    <text x="22" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#555550">Click to send direct transmission →</text>
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="100%" height="100%">
+  <rect width="1200" height="160" rx="16" fill="#F4F1EA" stroke="#111111" stroke-width="2"/>
+  
+      <!-- Tile 1 -->
+      <g transform="translate(0, 0)">
+        
+        <text x="32" y="38" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#888880">[ 01 / EFFICIENCY ]</text>
+        
+        <!-- Big Number -->
+        <text x="30" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" fill="#FF4D1C" letter-spacing="-1">−60%</text>
+
+        <!-- Hand-drawn Style Underline -->
+        <path d="M 32 98 Q 70 102 110 98 T 165 98" fill="none" stroke="#FF4D1C" stroke-width="2.5" stroke-linecap="round"/>
+
+        <!-- Captions -->
+        <text x="32" y="122" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#111111">API CALLS REDUCED</text>
+        <text x="32" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" fill="#555550">debounced search pipeline</text>
+      </g>
+    
+
+      <!-- Tile 2 -->
+      <g transform="translate(300, 0)">
+        <line x1="0" y1="18" x2="0" y2="142" stroke="#111111" stroke-width="1" stroke-dasharray="3 3"/>
+        <text x="32" y="38" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#888880">[ 02 / BUNDLE ]</text>
+        
+        <!-- Big Number -->
+        <text x="30" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" fill="#111111" letter-spacing="-1">−35%</text>
+
+        <!-- Hand-drawn Style Underline -->
+        <path d="M 32 98 Q 70 102 110 98 T 165 98" fill="none" stroke="#2B4BFF" stroke-width="2.5" stroke-linecap="round"/>
+
+        <!-- Captions -->
+        <text x="32" y="122" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#111111">BUNDLE SIZE SHRUNK</text>
+        <text x="32" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" fill="#555550">route &amp; component code-split</text>
+      </g>
+    
+
+      <!-- Tile 3 -->
+      <g transform="translate(600, 0)">
+        <line x1="0" y1="18" x2="0" y2="142" stroke="#111111" stroke-width="1" stroke-dasharray="3 3"/>
+        <text x="32" y="38" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#888880">[ 03 / VELOCITY ]</text>
+        
+        <!-- Big Number -->
+        <text x="30" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" fill="#2B4BFF" letter-spacing="-1">+40%</text>
+
+        <!-- Hand-drawn Style Underline -->
+        <path d="M 32 98 Q 70 102 110 98 T 165 98" fill="none" stroke="#FF4D1C" stroke-width="2.5" stroke-linecap="round"/>
+
+        <!-- Captions -->
+        <text x="32" y="122" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#111111">DEV ACCELERATION</text>
+        <text x="32" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" fill="#555550">12+ reusable UI primitives</text>
+      </g>
+    
+
+      <!-- Tile 4 -->
+      <g transform="translate(900, 0)">
+        <line x1="0" y1="18" x2="0" y2="142" stroke="#111111" stroke-width="1" stroke-dasharray="3 3"/>
+        <text x="32" y="38" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#888880">[ 04 / QUALITY ]</text>
+        
+        <!-- Big Number -->
+        <text x="30" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" fill="#111111" letter-spacing="-1">96+</text>
+
+        <!-- Hand-drawn Style Underline -->
+        <path d="M 32 98 Q 70 102 110 98 T 165 98" fill="none" stroke="#111111" stroke-width="2.5" stroke-linecap="round"/>
+
+        <!-- Captions -->
+        <text x="32" y="122" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#111111">LIGHTHOUSE SCORE</text>
+        <text x="32" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" fill="#555550">WCAG 2.1 AA compliant</text>
+      </g>
+    
+</svg>
