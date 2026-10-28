@@ -31,13 +31,13 @@
 
   <!-- 2-Line Description -->
   <text x="28" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#555550">Interactive coding platform running untrusted code in hardened micro-sandboxes.</text>
-  <text x="28" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#555550">Engineered with Auth.js HS256 JWTs across Next.js &amp; FastAPI, plus zero cold-start downtime.</text>
+  <text x="28" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#555550">Deployed on Render &amp; Supabase with Auth.js HS256 JWTs and zero cold-start caching.</text>
 
   <!-- Key Metric Panel -->
   <g transform="translate(28, 154)">
     <rect width="524" height="34" rx="6" fill="#F4F1EA" stroke="#111111" stroke-width="1"/>
-    <text x="14" y="21" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#888880">HARDENED RUNTIME</text>
-    <text x="140" y="21" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#FF4D1C">0.5 vCPU · 128 MB RAM · 5s KILL-SWITCH</text>
+    <text x="14" y="21" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="#888880">PRODUCTION STACK</text>
+    <text x="140" y="21" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#FF4D1C">RENDER API · SUPABASE DB · VERCEL UI</text>
   </g>
 
   <!-- Stack Chips -->
@@ -49,24 +49,30 @@
     
 
       <g transform="translate(127, 208)">
-        <rect width="91" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
-        <text x="45.5" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">TypeScript</text>
-      </g>
-    
-
-      <g transform="translate(226, 208)">
         <rect width="68.5" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
         <text x="34.25" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">FastAPI</text>
       </g>
     
 
-      <g transform="translate(302.5, 208)">
+      <g transform="translate(203.5, 208)">
+        <rect width="76" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
+        <text x="38" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">Supabase</text>
+      </g>
+    
+
+      <g transform="translate(287.5, 208)">
+        <rect width="61" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
+        <text x="30.5" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">Render</text>
+      </g>
+    
+
+      <g transform="translate(356.5, 208)">
         <rect width="91" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
         <text x="45.5" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">PostgreSQL</text>
       </g>
     
 
-      <g transform="translate(401.5, 208)">
+      <g transform="translate(455.5, 208)">
         <rect width="76" height="22" rx="4" fill="#E7E1D3" stroke="#111111" stroke-width="1"/>
         <text x="38" y="15" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#111111">Three.js</text>
       </g>

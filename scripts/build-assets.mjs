@@ -32,6 +32,12 @@ const C = {
   sandDark: '#D8D1C0',
   border: '#111111',
   white: '#FFFFFF',
+  supabase: '#3ECF8E',
+  supabaseLight: '#E8F8F0',
+  supabaseDark: '#249C66',
+  render: '#46E3B7',
+  renderLight: '#E6FAF4',
+  renderDark: '#20A880',
 };
 
 function escapeXml(str) {
@@ -425,20 +431,20 @@ function buildStackIso() {
     isoCube({ x: 275, y: 88, size: 28, height: 22, topFill: C.sandLight, leftFill: C.sand, rightFill: C.sandDark, label: '3D', labelSize: 11 }),
   ].join('\n');
 
-  // Panel 2: Backend & Data (local coordinates)
+  // Panel 2: Backend & Database (local coordinates)
   const beCubes = [
-    isoCube({ x: 65, y: 88, size: 28, height: 22, topFill: C.cobaltLight, leftFill: C.cobalt, rightFill: C.cobaltDark, label: 'JS', labelSize: 11, labelFill: C.cobaltDark }),
-    isoCube({ x: 135, y: 88, size: 28, height: 22, topFill: C.sandLight, leftFill: C.sand, rightFill: C.sandDark, label: 'PG', labelSize: 11 }),
-    isoCube({ x: 205, y: 88, size: 28, height: 22, topFill: C.sandLight, leftFill: C.sand, rightFill: C.sandDark, label: 'PY', labelSize: 11 }),
+    isoCube({ x: 65, y: 88, size: 28, height: 22, topFill: C.cobaltLight, leftFill: C.cobalt, rightFill: C.cobaltDark, label: 'FA', labelSize: 11, labelFill: C.cobaltDark }),
+    isoCube({ x: 135, y: 88, size: 28, height: 22, topFill: C.supabaseLight, leftFill: C.supabase, rightFill: C.supabaseDark, label: 'SB', labelSize: 11, labelFill: C.supabaseDark }),
+    isoCube({ x: 205, y: 88, size: 28, height: 22, topFill: C.sandLight, leftFill: C.sand, rightFill: C.sandDark, label: 'PG', labelSize: 11 }),
     isoCube({ x: 275, y: 88, size: 28, height: 22, topFill: C.vermilionLight, leftFill: C.vermilion, rightFill: C.vermilionDark, label: 'RD', labelSize: 11, labelFill: C.vermilionDark }),
   ].join('\n');
 
-  // Panel 3: DevOps & Tools (local coordinates)
+  // Panel 3: DevOps & Cloud (local coordinates)
   const devCubes = [
-    isoCube({ x: 65, y: 88, size: 28, height: 22, topFill: C.cobaltLight, leftFill: C.cobalt, rightFill: C.cobaltDark, label: 'DK', labelSize: 11, labelFill: C.cobaltDark }),
-    isoCube({ x: 135, y: 88, size: 28, height: 22, topFill: C.vermilionLight, leftFill: C.vermilion, rightFill: C.vermilionDark, label: 'GIT', labelSize: 10, labelFill: C.vermilionDark }),
-    isoCube({ x: 205, y: 88, size: 28, height: 22, topFill: C.sandLight, leftFill: C.sand, rightFill: C.sandDark, label: 'CI', labelSize: 11 }),
-    isoCube({ x: 275, y: 88, size: 28, height: 22, topFill: C.sandLight, leftFill: C.sand, rightFill: C.sandDark, label: 'LX', labelSize: 11 }),
+    isoCube({ x: 65, y: 88, size: 28, height: 22, topFill: C.renderLight, leftFill: C.render, rightFill: C.renderDark, label: 'RN', labelSize: 11, labelFill: C.renderDark }),
+    isoCube({ x: 135, y: 88, size: 28, height: 22, topFill: C.sandLight, leftFill: C.sand, rightFill: C.sandDark, label: 'VC', labelSize: 11 }),
+    isoCube({ x: 205, y: 88, size: 28, height: 22, topFill: C.cobaltLight, leftFill: C.cobalt, rightFill: C.cobaltDark, label: 'DK', labelSize: 11, labelFill: C.cobaltDark }),
+    isoCube({ x: 275, y: 88, size: 28, height: 22, topFill: C.vermilionLight, leftFill: C.vermilion, rightFill: C.vermilionDark, label: 'GIT', labelSize: 10, labelFill: C.vermilionDark }),
   ].join('\n');
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
@@ -461,24 +467,24 @@ function buildStackIso() {
     <text x="24" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="600" fill="${C.inkMuted}">React 19 · Next.js 14 · TypeScript · Three.js · Tailwind v4 · Vite</text>
   </g>
 
-  <!-- Panel 2: Backend & Data -->
+  <!-- Panel 2: Backend & Database -->
   <g transform="translate(420, 65)">
     <rect width="${panelWidth}" height="${panelHeight}" rx="12" fill="${C.sandLight}" stroke="${C.sand}" stroke-width="1"/>
-    <text x="24" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="${C.ink}">Backend &amp; Data</text>
-    <text x="24" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="${C.cobalt}">[ 02 / SERVICE LAYER ]</text>
+    <text x="24" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="${C.ink}">Backend &amp; Database</text>
+    <text x="24" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="${C.cobalt}">[ 02 / SERVICE &amp; DATA LAYER ]</text>
     ${beCubes}
     <!-- Labels below cubes -->
-    <text x="24" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="600" fill="${C.inkMuted}">Node.js · Express · FastAPI · PostgreSQL · Redis · Prisma · Python</text>
+    <text x="24" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="600" fill="${C.inkMuted}">FastAPI · Supabase · PostgreSQL · Python · Node.js · SQLAlchemy · Redis</text>
   </g>
 
-  <!-- Panel 3: DevOps & Tools -->
+  <!-- Panel 3: Cloud & DevOps -->
   <g transform="translate(800, 65)">
     <rect width="${panelWidth}" height="${panelHeight}" rx="12" fill="${C.sandLight}" stroke="${C.sand}" stroke-width="1"/>
-    <text x="24" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="${C.ink}">DevOps &amp; Tools</text>
-    <text x="24" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="${C.inkLight}">[ 03 / RUNTIME &amp; CI ]</text>
+    <text x="24" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="${C.ink}">Cloud &amp; DevOps</text>
+    <text x="24" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1" fill="${C.inkLight}">[ 03 / RUNTIME, CLOUD &amp; CI ]</text>
     ${devCubes}
     <!-- Labels below cubes -->
-    <text x="24" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="600" fill="${C.inkMuted}">Docker · GitHub Actions · Git · Linux · Postman · Vitest · Vercel</text>
+    <text x="24" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="600" fill="${C.inkMuted}">Render · Vercel · Docker · GitHub Actions · Git · Linux · Postman</text>
   </g>
 </svg>`;
 }
@@ -634,10 +640,10 @@ const projectConfigs = [
     title: 'CodeLab',
     tag: 'FLAGSHIP · EXECUTION ENGINE',
     descLine1: 'Interactive coding platform running untrusted code in hardened micro-sandboxes.',
-    descLine2: 'Engineered with Auth.js HS256 JWTs across Next.js & FastAPI, plus zero cold-start downtime.',
-    stack: ['Next.js 14', 'TypeScript', 'FastAPI', 'PostgreSQL', 'Three.js'],
-    metricLabel: 'HARDENED RUNTIME',
-    metricValue: '0.5 vCPU · 128 MB RAM · 5s KILL-SWITCH',
+    descLine2: 'Deployed on Render & Supabase with Auth.js HS256 JWTs and zero cold-start caching.',
+    stack: ['Next.js 14', 'FastAPI', 'Supabase', 'Render', 'PostgreSQL', 'Three.js'],
+    metricLabel: 'PRODUCTION STACK',
+    metricValue: 'RENDER API · SUPABASE DB · VERCEL UI',
     accentColor: C.vermilion,
     cubeProps: { topFill: C.vermilionLight, leftFill: C.vermilion, rightFill: C.vermilionDark, label: 'CL', labelFill: C.vermilionDark },
   },
